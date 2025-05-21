@@ -1,3 +1,5 @@
+package ds_case_classes
+
 case class TripData(
                      VendorID: Int,
                      tpep_pickup_datetime: String,
@@ -19,3 +21,10 @@ case class TripData(
                      congestion_surcharge: Float,
                      Airport_fee:Float
                    )
+
+case class TaxiZoneLookup(
+                           LocationID: Long,
+                           Borough: String,
+                           Zone: String,
+                           service_zone: String
+                         )
