@@ -46,15 +46,15 @@ object homework_13_dataset_sparksql {
 
     joinded.show()
 
-//    spark_processor.write_any_file(
-//                                  df = joinded,
-//                                  file_path = "HW/yellow_taxi_jan_25_2018_res",
-//                                  write_config = Map(
-//                                    "write_mode" -> "overwrite",
-//                                    "format" -> "parquet",
-//                                    "partitionBy" -> Seq("Zone")
-//                                  )
-//    )
+    spark_processor.write_any_file(
+                                  df = joinded,
+                                  file_path = "HW/homework_13_res",
+                                  write_config = Map(
+                                    "write_mode" -> "overwrite",
+                                    "format" -> "parquet",
+                                    "partitionBy" -> Seq("Zone")
+                                  )
+    )
   }
 
 }
