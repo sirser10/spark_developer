@@ -1,2 +1,2 @@
 # spark_developer
-Spark projects with Hadoop, Hive 
+Spark projects with Hadoop, Hive

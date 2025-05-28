@@ -30,4 +30,28 @@ class SparkBaseProcessor(val SparkAppName: String) {
       .options(options)
       .load(file_path)
   }
+
+  def write_any_file(
+                    df: DataFrame,
+                    file_path: String,
+                    write_config: Map[String, Any]
+                    ): Unit = {
+
+    val mode: String = write_config.get("write_mode").map(_.toString).getOrElse("overwrite")
+    val format: String = write_config.get("format").map(_.toString).getOrElse("parquet")
+
+    val writer = df.write.mode(mode).format(format)
+
+    write_config.get("partitionBy") match {
+      case Some(cols: Seq[_]) if cols.nonEmpty =>
+        val partitionCols = cols.collect { case s: String => s }
+        if (partitionCols.nonEmpty)
+          writer.partitionBy(partitionCols: _*).save(file_path)
+        else
+          writer.save(file_path)
+      case _ =>
+        writer.save(file_path)
+    }
+
+  }
 }
