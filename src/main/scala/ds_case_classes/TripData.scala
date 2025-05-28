@@ -28,3 +28,23 @@ case class TaxiZoneLookup(
                            Zone: String,
                            service_zone: String
                          )
+
+case class YellowTaxiJanuary(
+                              VendorID: Long,
+                              tpep_pickup_datetime: String,
+                              tpep_dropoff_datetime: String,
+                              passenger_count: Long,
+                              trip_distance: Double,
+                              RatecodeID: Int,
+                              store_and_fwd_flag: String,
+                              PULocationID: Long,
+                              DOLocationID: Long,
+                              payment_type: Long,
+                              fare_amount: Double,
+                              extra: Double,
+                              mta_tax: Double,
+                              tip_amount: Double ,
+                              tolls_amount: Double,
+                              improvement_surcharge: Double,
+                              total_amount: Double,
+                              )
