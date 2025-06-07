@@ -1,10 +1,9 @@
 import ds_case_classes.{TaxiZoneLookup, TripData}
 import org.apache.spark.rdd.RDD
-import org.apache.spark.sql.catalyst.plans.JoinType
 import org.apache.spark.{SparkConf, SparkContext}
-import org.apache.spark.sql.{DataFrame, Dataset,  SparkSession}
-import org.apache.spark.sql.functions._
-import org.apache.spark.sql.types._
+import org.apache.spark.sql.{SparkSession}
+import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter._
 
 object homework_11_rdd {
 
@@ -29,6 +28,7 @@ object homework_11_rdd {
     import spark.implicits._
 
     val rdd_tripdata: RDD[Array[String]] = read_and_delimit_rdd("HW/tripdata.csv", sc)
+    val rdd_taxi_zone: RDD[Array[String]] = read_and_delimit_rdd("HW/taxi_zone_lookup.csv", sc)
     val rowRDD_tripdata: RDD[TripData] = rdd_tripdata.flatMap(attr => {
       if (attr.length > 18) {
         Some(TripData(
@@ -53,35 +53,50 @@ object homework_11_rdd {
           attr(18).toFloat
         ))
       } else {None}
-  }
-  )
-    val ds_tripdata: Dataset[TripData] = rowRDD_tripdata.toDS()
-
-    val rdd_taxi_zone: RDD[Array[String]] = read_and_delimit_rdd("HW/taxi_zone_lookup.csv", sc)
-    val rowRDD_taxi_zone: RDD[TaxiZoneLookup] = rdd_taxi_zone.map(attr => TaxiZoneLookup(
-                                                                                          attr(0).toInt,
-                                                                                          attr(1),
-                                                                                          attr(2),
-                                                                                          attr(3)
-    ))
-    val ds_taxi_zone: Dataset[TaxiZoneLookup] = rowRDD_taxi_zone.toDS()
-
-    val df_result: DataFrame = ds_tripdata
-      .join(
-        ds_taxi_zone,
-        ds_tripdata("PULocationID") === ds_taxi_zone("LocationID"),
-        "left"
+    }
+    )
+    val rowRDD_taxi_zone: RDD[TaxiZoneLookup] = rdd_taxi_zone
+      .map(
+        attr => TaxiZoneLookup(
+          attr(0).toInt,
+          attr(1),
+          attr(2),
+          attr(3)
+        )
       )
-      .withColumn("date",to_date(to_timestamp(col("tpep_pickup_datetime")), "yyyy-MM-dd"))
-      .withColumn("hour", hour(to_timestamp(col("tpep_pickup_datetime"))))
-      .groupBy("Zone", "hour")
-      .agg(count("tpep_pickup_datetime").as("orders_count"))
-      .orderBy(desc("orders_count"))
 
-    df_result.write.mode("overwrite").partitionBy("Zone").parquet("HW/hourly_orders_count")
+    val pairRdd_tripdata: RDD[(Long, TripData)] = rowRDD_tripdata.map(trip => (trip.PULocationID,trip))
+    val pairRdd_taxi_zone: RDD[(Long,TaxiZoneLookup)] =  rowRDD_taxi_zone.map(zone => (zone.LocationID,zone))
+    val joined_RDD: RDD[(Long, (TripData, TaxiZoneLookup))] = pairRdd_tripdata.join(pairRdd_taxi_zone)
 
-    df_result.show()
 
+    val processed_RDD = joined_RDD.map{
+      case (key, (tripData: TripData, taxiZoneLookup: TaxiZoneLookup)) =>
+        val pickup_date = LocalDateTime.parse(tripData.tpep_pickup_datetime, ISO_DATE_TIME)
+        val hour = pickup_date.getHour
+        (taxiZoneLookup.Zone, hour, tripData)
+    }
+
+
+    val result_RDD = processed_RDD
+      .map{
+        case (zone, hour, tripData: TripData) => ((zone, hour),1)
+      }
+      .reduceByKey(_+_)
+      .map{
+        case ((zone, hour), count) => (zone, hour, count)
+      }
+      .sortBy{
+        case (zone,hour, count) => (-count, zone, hour)
+      }
+
+    val total_RDD: RDD[String] = result_RDD.map{
+      case (zone, hour, count) => s"$zone, $hour, $count"
+    }
+
+    val output_RDD = sc.parallelize(Seq("zone, hour, orders_count")) ++ total_RDD
+  //    output_RDD.take(10).foreach(println)
+    output_RDD.saveAsTextFile("HW/hourly_orders_count.csv")
 
     spark.stop()
 

@@ -1,0 +1,2047 @@
+"Coney Island", 11, 6
+"Crown Heights North", 16, 6
+"Crown Heights South", 10, 6
+"DUMBO/Vinegar Hill", 2, 6
+"DUMBO/Vinegar Hill", 20, 6
+"DUMBO/Vinegar Hill", 21, 6
+"Downtown Brooklyn/MetroTech", 6, 6
+"East Concourse/Concourse Village", 5, 6
+"East Concourse/Concourse Village", 10, 6
+"East Elmhurst", 1, 6
+"East Flatbush/Farragut", 9, 6
+"East Flatbush/Farragut", 11, 6
+"East New York", 11, 6
+"East New York/Pennsylvania Avenue", 7, 6
+"East New York/Pennsylvania Avenue", 12, 6
+"Elmhurst", 0, 6
+"Flatlands", 11, 6
+"Flushing Meadows-Corona Park", 5, 6
+"Flushing Meadows-Corona Park", 16, 6
+"Forest Hills", 12, 6
+"Fort Greene", 2, 6
+"Fort Greene", 8, 6
+"Fort Greene", 12, 6
+"Greenpoint", 20, 6
+"Hamilton Heights", 4, 6
+"Hamilton Heights", 5, 6
+"Hammels/Arverne", 8, 6
+"Highbridge", 5, 6
+"Inwood", 15, 6
+"Jackson Heights", 6, 6
+"Jackson Heights", 23, 6
+"Jamaica", 8, 6
+"Jamaica", 11, 6
+"Jamaica", 22, 6
+"Kew Gardens Hills", 6, 6
+"Kew Gardens", 16, 6
+"Kingsbridge Heights", 15, 6
+"LaGuardia Airport", 3, 6
+"Long Island City/Hunters Point", 5, 6
+"Long Island City/Hunters Point", 6, 6
+"Long Island City/Hunters Point", 19, 6
+"Long Island City/Queens Plaza", 21, 6
+"Long Island City/Queens Plaza", 22, 6
+"Maspeth", 7, 6
+"Midwood", 12, 6
+"Mott Haven/Port Morris", 1, 6
+"Mott Haven/Port Morris", 9, 6
+"Newark Airport", 6, 6
+"Ocean Hill", 9, 6
+"Old Astoria", 11, 6
+"Old Astoria", 12, 6
+"Outside of NYC", 7, 6
+"Outside of NYC", 9, 6
+"Parkchester", 12, 6
+"Prospect Heights", 2, 6
+"Prospect Heights", 9, 6
+"Prospect-Lefferts Gardens", 10, 6
+"Prospect-Lefferts Gardens", 13, 6
+"Saint Albans", 5, 6
+"Saint Michaels Cemetery/Woodside", 11, 6
+"Soundview/Castle Hill", 6, 6
+"Soundview/Castle Hill", 11, 6
+"South Jamaica", 9, 6
+"South Jamaica", 10, 6
+"South Jamaica", 13, 6
+"South Jamaica", 21, 6
+"South Ozone Park", 4, 6
+"South Ozone Park", 14, 6
+"South Ozone Park", 20, 6
+"Springfield Gardens North", 5, 6
+"Springfield Gardens South", 6, 6
+"Springfield Gardens South", 8, 6
+"Springfield Gardens South", 23, 6
+"Starrett City", 10, 6
+"Steinway", 7, 6
+"Steinway", 10, 6
+"Steinway", 13, 6
+"Steinway", 19, 6
+"Stuyvesant Heights", 5, 6
+"Stuyvesant Heights", 6, 6
+"Stuyvesant Heights", 8, 6
+"Stuyvesant Heights", 13, 6
+"Stuyvesant Heights", 15, 6
+"Stuyvesant Heights", 17, 6
+"Sunnyside", 22, 6
+"Two Bridges/Seward Park", 7, 6
+"University Heights/Morris Heights", 8, 6
+"Van Nest/Morris Park", 12, 6
+"Washington Heights North", 1, 6
+"Washington Heights North", 12, 6
+"Washington Heights North", 23, 6
+"Washington Heights South", 22, 6
+"West Concourse", 7, 6
+"Williamsburg (North Side)", 22, 6
+"Williamsburg (South Side)", 8, 6
+"Williamsburg (South Side)", 15, 6
+"Williamsburg (South Side)", 16, 6
+"Woodside", 1, 6
+"Woodside", 15, 6
+"Woodside", 22, 6
+"Alphabet City", 5, 5
+"Alphabet City", 7, 5
+"Astoria", 18, 5
+"Astoria", 22, 5
+"Baisley Park", 18, 5
+"Battery Park", 9, 5
+"Bay Ridge", 11, 5
+"Bedford", 1, 5
+"Bedford", 2, 5
+"Bedford", 12, 5
+"Belmont", 5, 5
+"Bensonhurst East", 9, 5
+"Boerum Hill", 6, 5
+"Boerum Hill", 20, 5
+"Borough Park", 14, 5
+"Borough Park", 16, 5
+"Briarwood/Jamaica Hills", 9, 5
+"Briarwood/Jamaica Hills", 10, 5
+"Briarwood/Jamaica Hills", 11, 5
+"Briarwood/Jamaica Hills", 12, 5
+"Briarwood/Jamaica Hills", 16, 5
+"Bronxdale", 13, 5
+"Brooklyn Heights", 1, 5
+"Brownsville", 5, 5
+"Brownsville", 13, 5
+"Canarsie", 12, 5
+"Canarsie", 15, 5
+"Carroll Gardens", 6, 5
+"Carroll Gardens", 8, 5
+"Chinatown", 4, 5
+"Clinton Hill", 8, 5
+"Clinton Hill", 13, 5
+"Co-Op City", 16, 5
+"Cobble Hill", 7, 5
+"Coney Island", 6, 5
+"Coney Island", 13, 5
+"Crown Heights North", 4, 5
+"Crown Heights North", 17, 5
+"Crown Heights South", 12, 5
+"Cypress Hills", 10, 5
+"DUMBO/Vinegar Hill", 1, 5
+"Downtown Brooklyn/MetroTech", 22, 5
+"East Concourse/Concourse Village", 11, 5
+"East Concourse/Concourse Village", 16, 5
+"East Elmhurst", 4, 5
+"East Elmhurst", 5, 5
+"East Flatbush/Farragut", 10, 5
+"East Flatbush/Remsen Village", 6, 5
+"East Flatbush/Remsen Village", 11, 5
+"East Flatbush/Remsen Village", 13, 5
+"East New York", 4, 5
+"East New York", 18, 5
+"East Tremont", 12, 5
+"East Williamsburg", 7, 5
+"Eastchester", 13, 5
+"Elmhurst", 4, 5
+"Elmhurst", 8, 5
+"Elmhurst", 22, 5
+"Elmhurst", 23, 5
+"Erasmus", 11, 5
+"Far Rockaway", 5, 5
+"Far Rockaway", 6, 5
+"Far Rockaway", 8, 5
+"Financial District South", 4, 5
+"Financial District South", 5, 5
+"Flatbush/Ditmas Park", 8, 5
+"Flatbush/Ditmas Park", 14, 5
+"Flatlands", 5, 5
+"Flushing", 13, 5
+"Forest Hills", 7, 5
+"Forest Hills", 15, 5
+"Fort Greene", 18, 5
+"Gravesend", 7, 5
+"Hamilton Heights", 22, 5
+"Hammels/Arverne", 11, 5
+"Hammels/Arverne", 12, 5
+"Highbridge", 10, 5
+"Hillcrest/Pomonok", 7, 5
+"Hillcrest/Pomonok", 8, 5
+"Jackson Heights", 0, 5
+"Jackson Heights", 3, 5
+"Jackson Heights", 12, 5
+"Jackson Heights", 13, 5
+"Jackson Heights", 19, 5
+"Jamaica", 5, 5
+"Jamaica", 6, 5
+"Jamaica", 15, 5
+"Jamaica", 20, 5
+"Jamaica", 21, 5
+"Kensington", 11, 5
+"Kew Gardens", 7, 5
+"Kew Gardens", 14, 5
+"Kew Gardens", 18, 5
+"Long Island City/Hunters Point", 2, 5
+"Long Island City/Hunters Point", 4, 5
+"Long Island City/Queens Plaza", 3, 5
+"Long Island City/Queens Plaza", 18, 5
+"Long Island City/Queens Plaza", 23, 5
+"Madison", 7, 5
+"Marine Park/Mill Basin", 14, 5
+"Maspeth", 23, 5
+"Morrisania/Melrose", 8, 5
+"Mott Haven/Port Morris", 18, 5
+"Mount Hope", 16, 5
+"Newark Airport", 16, 5
+"Ocean Hill", 10, 5
+"Old Astoria", 8, 5
+"Old Astoria", 14, 5
+"Old Astoria", 15, 5
+"Outside of NYC", 6, 5
+"Outside of NYC", 22, 5
+"Park Slope", 1, 5
+"Park Slope", 3, 5
+"Park Slope", 9, 5
+"Park Slope", 10, 5
+"Park Slope", 11, 5
+"Park Slope", 12, 5
+"Park Slope", 16, 5
+"Prospect-Lefferts Gardens", 7, 5
+"Prospect-Lefferts Gardens", 8, 5
+"Rego Park", 6, 5
+"Richmond Hill", 6, 5
+"Richmond Hill", 8, 5
+"Richmond Hill", 10, 5
+"Richmond Hill", 14, 5
+"Riverdale/North Riverdale/Fieldston", 12, 5
+"Schuylerville/Edgewater Park", 7, 5
+"Sheepshead Bay", 6, 5
+"Sheepshead Bay", 7, 5
+"Soundview/Castle Hill", 9, 5
+"South Jamaica", 0, 5
+"South Jamaica", 7, 5
+"South Jamaica", 12, 5
+"South Jamaica", 14, 5
+"South Jamaica", 23, 5
+"South Ozone Park", 9, 5
+"South Ozone Park", 21, 5
+"Springfield Gardens North", 6, 5
+"Springfield Gardens North", 9, 5
+"Springfield Gardens South", 15, 5
+"Springfield Gardens South", 22, 5
+"Spuyten Duyvil/Kingsbridge", 10, 5
+"Starrett City", 8, 5
+"Starrett City", 12, 5
+"Steinway", 4, 5
+"Steinway", 6, 5
+"Steinway", 14, 5
+"Steinway", 20, 5
+"Steinway", 21, 5
+"Stuyvesant Heights", 11, 5
+"Stuyvesant Heights", 12, 5
+"Stuyvesant Heights", 18, 5
+"University Heights/Morris Heights", 5, 5
+"Washington Heights South", 4, 5
+"Washington Heights South", 5, 5
+"Williamsburg (South Side)", 4, 5
+"Williamsburg (South Side)", 18, 5
+"Woodside", 9, 5
+"Woodside", 12, 5
+"Woodside", 16, 5
+"Alphabet City", 6, 4
+"Alphabet City", 11, 4
+"Astoria", 5, 4
+"Baisley Park", 5, 4
+"Baisley Park", 10, 4
+"Baisley Park", 11, 4
+"Battery Park City", 3, 4
+"Battery Park City", 4, 4
+"Bay Ridge", 0, 4
+"Bay Ridge", 10, 4
+"Bay Ridge", 14, 4
+"Bedford Park", 5, 4
+"Bedford Park", 9, 4
+"Bloomingdale", 5, 4
+"Boerum Hill", 19, 4
+"Boerum Hill", 23, 4
+"Borough Park", 11, 4
+"Briarwood/Jamaica Hills", 17, 4
+"Briarwood/Jamaica Hills", 21, 4
+"Brooklyn Heights", 10, 4
+"Brooklyn Heights", 17, 4
+"Brooklyn Heights", 19, 4
+"Brownsville", 15, 4
+"Bushwick North", 3, 4
+"Bushwick South", 7, 4
+"Bushwick South", 14, 4
+"Bushwick South", 19, 4
+"Canarsie", 10, 4
+"Canarsie", 17, 4
+"Clinton Hill", 15, 4
+"Clinton Hill", 16, 4
+"Co-Op City", 13, 4
+"Co-Op City", 14, 4
+"Cobble Hill", 9, 4
+"Cobble Hill", 11, 4
+"Cobble Hill", 21, 4
+"Corona", 7, 4
+"Corona", 16, 4
+"Corona", 18, 4
+"Crown Heights North", 3, 4
+"Crown Heights North", 18, 4
+"Cypress Hills", 11, 4
+"DUMBO/Vinegar Hill", 8, 4
+"DUMBO/Vinegar Hill", 22, 4
+"Downtown Brooklyn/MetroTech", 3, 4
+"Dyker Heights", 11, 4
+"East Concourse/Concourse Village", 9, 4
+"East Concourse/Concourse Village", 13, 4
+"East Concourse/Concourse Village", 15, 4
+"East Elmhurst", 6, 4
+"East Flatbush/Farragut", 5, 4
+"East Flatbush/Farragut", 14, 4
+"East Flatbush/Remsen Village", 10, 4
+"East Flatbush/Remsen Village", 14, 4
+"East New York/Pennsylvania Avenue", 9, 4
+"East Tremont", 8, 4
+"East Williamsburg", 4, 4
+"East Williamsburg", 23, 4
+"Eastchester", 8, 4
+"Elmhurst", 9, 4
+"Elmhurst", 11, 4
+"Elmhurst", 21, 4
+"Elmhurst/Maspeth", 16, 4
+"Erasmus", 9, 4
+"Erasmus", 14, 4
+"Far Rockaway", 13, 4
+"Financial District South", 6, 4
+"Flatbush/Ditmas Park", 10, 4
+"Flatbush/Ditmas Park", 13, 4
+"Flatbush/Ditmas Park", 15, 4
+"Flatbush/Ditmas Park", 16, 4
+"Flatbush/Ditmas Park", 22, 4
+"Flatlands", 13, 4
+"Flushing Meadows-Corona Park", 0, 4
+"Flushing Meadows-Corona Park", 8, 4
+"Flushing Meadows-Corona Park", 9, 4
+"Flushing Meadows-Corona Park", 13, 4
+"Flushing Meadows-Corona Park", 19, 4
+"Flushing", 9, 4
+"Forest Hills", 5, 4
+"Forest Hills", 10, 4
+"Fort Greene", 3, 4
+"Fort Greene", 7, 4
+"Fort Greene", 17, 4
+"Greenpoint", 4, 4
+"Greenpoint", 12, 4
+"Hamilton Heights", 20, 4
+"Hammels/Arverne", 5, 4
+"Highbridge", 8, 4
+"Highbridge", 9, 4
+"Inwood", 10, 4
+"Jackson Heights", 16, 4
+"Jackson Heights", 18, 4
+"Jackson Heights", 21, 4
+"Jackson Heights", 22, 4
+"Jamaica Estates", 6, 4
+"Jamaica Estates", 8, 4
+"Kew Gardens", 12, 4
+"Kew Gardens", 13, 4
+"Long Island City/Queens Plaza", 19, 4
+"Marine Park/Mill Basin", 7, 4
+"Marine Park/Mill Basin", 11, 4
+"Maspeth", 13, 4
+"Melrose South", 9, 4
+"Melrose South", 11, 4
+"Midwood", 9, 4
+"Midwood", 13, 4
+"Mott Haven/Port Morris", 6, 4
+"Mott Haven/Port Morris", 12, 4
+"Mott Haven/Port Morris", 13, 4
+"Mount Hope", 12, 4
+"Newark Airport", 7, 4
+"Newark Airport", 9, 4
+"Ocean Hill", 12, 4
+"Ocean Hill", 13, 4
+"Old Astoria", 2, 4
+"Old Astoria", 13, 4
+"Old Astoria", 16, 4
+"Park Slope", 0, 4
+"Park Slope", 7, 4
+"Park Slope", 13, 4
+"Park Slope", 18, 4
+"Park Slope", 21, 4
+"Park Slope", 23, 4
+"Parkchester", 6, 4
+"Parkchester", 8, 4
+"Parkchester", 13, 4
+"Prospect-Lefferts Gardens", 5, 4
+"Queens Village", 6, 4
+"Queens Village", 8, 4
+"Queens Village", 15, 4
+"Queensbridge/Ravenswood", 2, 4
+"Queensbridge/Ravenswood", 22, 4
+"Red Hook", 12, 4
+"Red Hook", 14, 4
+"Rego Park", 7, 4
+"Rego Park", 13, 4
+"Rego Park", 17, 4
+"Richmond Hill", 11, 4
+"Ridgewood", 2, 4
+"Saint Albans", 8, 4
+"Saint Albans", 14, 4
+"Saint Michaels Cemetery/Woodside", 8, 4
+"Saint Michaels Cemetery/Woodside", 9, 4
+"Saint Michaels Cemetery/Woodside", 10, 4
+"Seaport", 4, 4
+"Seaport", 6, 4
+"Sheepshead Bay", 10, 4
+"Sheepshead Bay", 11, 4
+"Soundview/Bruckner", 9, 4
+"Soundview/Castle Hill", 4, 4
+"South Jamaica", 6, 4
+"South Jamaica", 19, 4
+"South Ozone Park", 7, 4
+"South Williamsburg", 7, 4
+"Springfield Gardens North", 7, 4
+"Springfield Gardens North", 8, 4
+"Springfield Gardens North", 21, 4
+"Springfield Gardens South", 9, 4
+"Springfield Gardens South", 12, 4
+"Springfield Gardens South", 13, 4
+"Springfield Gardens South", 16, 4
+"Springfield Gardens South", 17, 4
+"Springfield Gardens South", 18, 4
+"Starrett City", 7, 4
+"Starrett City", 13, 4
+"Steinway", 1, 4
+"Steinway", 9, 4
+"Steinway", 11, 4
+"Steinway", 12, 4
+"Steinway", 15, 4
+"Steinway", 16, 4
+"Steinway", 18, 4
+"Steinway", 22, 4
+"Stuy Town/Peter Cooper Village", 5, 4
+"Stuyvesant Heights", 14, 4
+"Sunnyside", 20, 4
+"University Heights/Morris Heights", 4, 4
+"University Heights/Morris Heights", 9, 4
+"University Heights/Morris Heights", 11, 4
+"Van Nest/Morris Park", 15, 4
+"Van Nest/Morris Park", 17, 4
+"Washington Heights North", 2, 4
+"Washington Heights North", 3, 4
+"Washington Heights North", 14, 4
+"Washington Heights North", 15, 4
+"Washington Heights South", 3, 4
+"Washington Heights South", 23, 4
+"West Concourse", 8, 4
+"West Concourse", 9, 4
+"West Concourse", 19, 4
+"West Farms/Bronx River", 8, 4
+"Westchester Village/Unionport", 8, 4
+"Westchester Village/Unionport", 16, 4
+"Williamsburg (North Side)", 4, 4
+"Williamsburg (North Side)", 20, 4
+"Williamsburg (South Side)", 17, 4
+"Williamsburg (South Side)", 23, 4
+"Woodhaven", 6, 4
+"Woodhaven", 9, 4
+"Woodside", 0, 4
+"Woodside", 6, 4
+"Astoria", 1, 3
+"Auburndale", 12, 3
+"Bath Beach", 17, 3
+"Battery Park", 0, 3
+"Battery Park", 18, 3
+"Battery Park", 21, 3
+"Bay Ridge", 3, 3
+"Bay Ridge", 9, 3
+"Bayside", 9, 3
+"Bedford Park", 12, 3
+"Bedford", 4, 3
+"Bedford", 6, 3
+"Bedford", 13, 3
+"Bedford", 15, 3
+"Belmont", 16, 3
+"Belmont", 17, 3
+"Bensonhurst East", 6, 3
+"Bensonhurst East", 12, 3
+"Bensonhurst East", 16, 3
+"Bensonhurst West", 7, 3
+"Bensonhurst West", 8, 3
+"Bensonhurst West", 13, 3
+"Boerum Hill", 0, 3
+"Boerum Hill", 4, 3
+"Borough Park", 8, 3
+"Briarwood/Jamaica Hills", 8, 3
+"Briarwood/Jamaica Hills", 18, 3
+"Briarwood/Jamaica Hills", 19, 3
+"Briarwood/Jamaica Hills", 20, 3
+"Brighton Beach", 6, 3
+"Brighton Beach", 7, 3
+"Bronxdale", 8, 3
+"Bronxdale", 10, 3
+"Bronxdale", 16, 3
+"Brooklyn Heights", 0, 3
+"Brooklyn Heights", 3, 3
+"Brooklyn Heights", 7, 3
+"Brooklyn Heights", 20, 3
+"Brownsville", 20, 3
+"Bushwick North", 1, 3
+"Bushwick North", 6, 3
+"Bushwick South", 5, 3
+"Bushwick South", 6, 3
+"Bushwick South", 9, 3
+"Bushwick South", 17, 3
+"Cambria Heights", 6, 3
+"Cambria Heights", 7, 3
+"Canarsie", 1, 3
+"Canarsie", 4, 3
+"Canarsie", 13, 3
+"Carroll Gardens", 1, 3
+"Carroll Gardens", 2, 3
+"Carroll Gardens", 9, 3
+"Chinatown", 7, 3
+"Claremont/Bathgate", 5, 3
+"Claremont/Bathgate", 16, 3
+"Clinton Hill", 11, 3
+"Clinton Hill", 12, 3
+"Co-Op City", 5, 3
+"Co-Op City", 8, 3
+"Co-Op City", 11, 3
+"Co-Op City", 18, 3
+"Cobble Hill", 14, 3
+"Cobble Hill", 16, 3
+"Coney Island", 17, 3
+"Corona", 5, 3
+"Corona", 11, 3
+"Corona", 13, 3
+"Crotona Park East", 10, 3
+"Crown Heights North", 2, 3
+"Crown Heights South", 8, 3
+"Cypress Hills", 0, 3
+"Cypress Hills", 6, 3
+"Cypress Hills", 7, 3
+"DUMBO/Vinegar Hill", 9, 3
+"Downtown Brooklyn/MetroTech", 5, 3
+"Dyker Heights", 6, 3
+"East Concourse/Concourse Village", 6, 3
+"East Concourse/Concourse Village", 12, 3
+"East Concourse/Concourse Village", 17, 3
+"East Elmhurst", 3, 3
+"East Flatbush/Farragut", 6, 3
+"East Flatbush/Farragut", 13, 3
+"East Flatbush/Remsen Village", 4, 3
+"East Flatbush/Remsen Village", 17, 3
+"East New York", 1, 3
+"East New York", 16, 3
+"East New York/Pennsylvania Avenue", 8, 3
+"East New York/Pennsylvania Avenue", 13, 3
+"East Tremont", 7, 3
+"East Tremont", 9, 3
+"East Tremont", 10, 3
+"East Tremont", 13, 3
+"East Tremont", 17, 3
+"East Williamsburg", 8, 3
+"East Williamsburg", 9, 3
+"East Williamsburg", 11, 3
+"East Williamsburg", 19, 3
+"Eastchester", 9, 3
+"Eastchester", 12, 3
+"Elmhurst", 12, 3
+"Elmhurst", 19, 3
+"Elmhurst/Maspeth", 12, 3
+"Erasmus", 6, 3
+"Erasmus", 7, 3
+"Erasmus", 10, 3
+"Erasmus", 13, 3
+"Flatlands", 9, 3
+"Flatlands", 12, 3
+"Flatlands", 16, 3
+"Flushing Meadows-Corona Park", 12, 3
+"Flushing Meadows-Corona Park", 14, 3
+"Flushing Meadows-Corona Park", 21, 3
+"Flushing", 12, 3
+"Forest Hills", 9, 3
+"Forest Hills", 16, 3
+"Forest Hills", 23, 3
+"Fort Greene", 0, 3
+"Fort Greene", 4, 3
+"Fort Greene", 21, 3
+"Fresh Meadows", 13, 3
+"Gowanus", 11, 3
+"Gravesend", 11, 3
+"Greenpoint", 5, 3
+"Greenpoint", 6, 3
+"Greenpoint", 21, 3
+"Greenpoint", 22, 3
+"Hammels/Arverne", 7, 3
+"Hammels/Arverne", 9, 3
+"Hammels/Arverne", 10, 3
+"Hammels/Arverne", 13, 3
+"Hillcrest/Pomonok", 4, 3
+"Hillcrest/Pomonok", 13, 3
+"Hillcrest/Pomonok", 15, 3
+"Hollis", 9, 3
+"Homecrest", 7, 3
+"Homecrest", 9, 3
+"Homecrest", 13, 3
+"Homecrest", 18, 3
+"Howard Beach", 23, 3
+"Hunts Point", 9, 3
+"Inwood", 1, 3
+"Inwood", 7, 3
+"Inwood", 8, 3
+"Inwood", 17, 3
+"Inwood", 18, 3
+"Inwood", 19, 3
+"Jackson Heights", 7, 3
+"Jamaica Estates", 14, 3
+"Jamaica", 9, 3
+"Jamaica", 10, 3
+"Jamaica", 12, 3
+"Jamaica", 19, 3
+"Jamaica", 23, 3
+"Kew Gardens", 2, 3
+"Kew Gardens", 11, 3
+"Kew Gardens", 19, 3
+"Kingsbridge Heights", 8, 3
+"Laurelton", 13, 3
+"Long Island City/Queens Plaza", 2, 3
+"Madison", 6, 3
+"Madison", 16, 3
+"Manhattanville", 4, 3
+"Marine Park/Mill Basin", 9, 3
+"Marine Park/Mill Basin", 10, 3
+"Marine Park/Mill Basin", 12, 3
+"Marine Park/Mill Basin", 13, 3
+"Marine Park/Mill Basin", 16, 3
+"Marine Park/Mill Basin", 18, 3
+"Maspeth", 2, 3
+"Melrose South", 6, 3
+"Melrose South", 12, 3
+"Melrose South", 13, 3
+"Melrose South", 14, 3
+"Melrose South", 15, 3
+"Midwood", 7, 3
+"Midwood", 16, 3
+"Midwood", 17, 3
+"Morrisania/Melrose", 11, 3
+"Morrisania/Melrose", 12, 3
+"Mott Haven/Port Morris", 2, 3
+"Mott Haven/Port Morris", 5, 3
+"Mount Hope", 9, 3
+"Murray Hill-Queens", 5, 3
+"Newark Airport", 8, 3
+"Newark Airport", 13, 3
+"Newark Airport", 19, 3
+"Ocean Hill", 6, 3
+"Ocean Hill", 8, 3
+"Ocean Hill", 11, 3
+"Old Astoria", 0, 3
+"Old Astoria", 10, 3
+"Old Astoria", 20, 3
+"Park Slope", 8, 3
+"Park Slope", 14, 3
+"Park Slope", 15, 3
+"Park Slope", 17, 3
+"Park Slope", 19, 3
+"Parkchester", 10, 3
+"Pelham Parkway", 6, 3
+"Pelham Parkway", 11, 3
+"Pelham Parkway", 12, 3
+"Prospect Heights", 0, 3
+"Prospect Heights", 3, 3
+"Prospect Heights", 5, 3
+"Prospect Heights", 12, 3
+"Prospect-Lefferts Gardens", 15, 3
+"Queens Village", 10, 3
+"Queens Village", 11, 3
+"Queens Village", 12, 3
+"Queensbridge/Ravenswood", 3, 3
+"Randalls Island", 0, 3
+"Red Hook", 13, 3
+"Red Hook", 16, 3
+"Rego Park", 11, 3
+"Rego Park", 12, 3
+"Ridgewood", 12, 3
+"Ridgewood", 14, 3
+"Roosevelt Island", 2, 3
+"Roosevelt Island", 11, 3
+"Roosevelt Island", 16, 3
+"Roosevelt Island", 22, 3
+"Rosedale", 9, 3
+"Rosedale", 16, 3
+"Rosedale", 17, 3
+"Saint Albans", 15, 3
+"Saint Albans", 16, 3
+"Schuylerville/Edgewater Park", 9, 3
+"Seaport", 5, 3
+"Seaport", 7, 3
+"Sheepshead Bay", 14, 3
+"Sheepshead Bay", 15, 3
+"Sheepshead Bay", 18, 3
+"Soundview/Castle Hill", 7, 3
+"Soundview/Castle Hill", 8, 3
+"Soundview/Castle Hill", 12, 3
+"South Jamaica", 17, 3
+"South Ozone Park", 13, 3
+"South Ozone Park", 19, 3
+"South Ozone Park", 22, 3
+"South Ozone Park", 23, 3
+"South Williamsburg", 12, 3
+"Springfield Gardens North", 12, 3
+"Springfield Gardens North", 14, 3
+"Springfield Gardens North", 15, 3
+"Springfield Gardens South", 7, 3
+"Springfield Gardens South", 10, 3
+"Springfield Gardens South", 11, 3
+"Springfield Gardens South", 19, 3
+"Springfield Gardens South", 20, 3
+"Spuyten Duyvil/Kingsbridge", 9, 3
+"Spuyten Duyvil/Kingsbridge", 15, 3
+"Starrett City", 5, 3
+"Starrett City", 9, 3
+"Starrett City", 11, 3
+"Stuyvesant Heights", 3, 3
+"Sunset Park West", 2, 3
+"Sunset Park West", 18, 3
+"University Heights/Morris Heights", 7, 3
+"University Heights/Morris Heights", 12, 3
+"University Heights/Morris Heights", 13, 3
+"Van Cortlandt Village", 4, 3
+"Van Cortlandt Village", 6, 3
+"Van Cortlandt Village", 8, 3
+"Van Cortlandt Village", 13, 3
+"Van Nest/Morris Park", 11, 3
+"Washington Heights North", 6, 3
+"Washington Heights North", 8, 3
+"Washington Heights North", 9, 3
+"Washington Heights North", 16, 3
+"Washington Heights North", 17, 3
+"Washington Heights North", 18, 3
+"Washington Heights North", 20, 3
+"West Concourse", 11, 3
+"West Concourse", 16, 3
+"West Farms/Bronx River", 10, 3
+"Westchester Village/Unionport", 9, 3
+"Williamsbridge/Olinville", 10, 3
+"Williamsbridge/Olinville", 14, 3
+"Williamsburg (North Side)", 11, 3
+"Williamsburg (North Side)", 14, 3
+"Williamsburg (North Side)", 18, 3
+"Williamsburg (North Side)", 21, 3
+"Williamsburg (South Side)", 5, 3
+"Williamsburg (South Side)", 13, 3
+"Williamsburg (South Side)", 20, 3
+"Williamsburg (South Side)", 22, 3
+"Windsor Terrace", 10, 3
+"Woodhaven", 7, 3
+"Woodhaven", 10, 3
+"Woodlawn/Wakefield", 6, 3
+"Woodlawn/Wakefield", 12, 3
+"Woodside", 3, 3
+"Woodside", 5, 3
+"Woodside", 18, 3
+"Woodside", 19, 3
+"Allerton/Pelham Gardens", 5, 2
+"Allerton/Pelham Gardens", 6, 2
+"Allerton/Pelham Gardens", 8, 2
+"Allerton/Pelham Gardens", 12, 2
+"Allerton/Pelham Gardens", 16, 2
+"Baisley Park", 3, 2
+"Baisley Park", 4, 2
+"Bath Beach", 12, 2
+"Bay Ridge", 4, 2
+"Bay Ridge", 6, 2
+"Bay Ridge", 13, 2
+"Bay Ridge", 18, 2
+"Bayside", 12, 2
+"Bedford Park", 6, 2
+"Bedford Park", 10, 2
+"Bedford Park", 11, 2
+"Bedford Park", 14, 2
+"Bedford", 17, 2
+"Bedford", 18, 2
+"Bellerose", 6, 2
+"Bellerose", 11, 2
+"Bellerose", 20, 2
+"Belmont", 11, 2
+"Bensonhurst East", 14, 2
+"Bensonhurst West", 6, 2
+"Bensonhurst West", 10, 2
+"Bensonhurst West", 11, 2
+"Bensonhurst West", 12, 2
+"Boerum Hill", 3, 2
+"Boerum Hill", 5, 2
+"Borough Park", 6, 2
+"Borough Park", 10, 2
+"Borough Park", 12, 2
+"Borough Park", 17, 2
+"Borough Park", 20, 2
+"Borough Park", 23, 2
+"Briarwood/Jamaica Hills", 13, 2
+"Briarwood/Jamaica Hills", 14, 2
+"Brighton Beach", 8, 2
+"Brighton Beach", 10, 2
+"Brighton Beach", 11, 2
+"Brighton Beach", 14, 2
+"Brighton Beach", 15, 2
+"Brighton Beach", 16, 2
+"Bronxdale", 9, 2
+"Bronxdale", 12, 2
+"Bronxdale", 15, 2
+"Brooklyn Heights", 4, 2
+"Brooklyn Heights", 22, 2
+"Brooklyn Heights", 23, 2
+"Brooklyn Navy Yard", 3, 2
+"Brownsville", 16, 2
+"Brownsville", 17, 2
+"Bushwick North", 14, 2
+"Bushwick North", 19, 2
+"Bushwick South", 4, 2
+"Bushwick South", 8, 2
+"Bushwick South", 15, 2
+"Bushwick South", 16, 2
+"Bushwick South", 18, 2
+"Bushwick South", 20, 2
+"Bushwick South", 23, 2
+"Cambria Heights", 8, 2
+"Cambria Heights", 11, 2
+"Cambria Heights", 13, 2
+"Canarsie", 14, 2
+"Canarsie", 19, 2
+"Carroll Gardens", 0, 2
+"Carroll Gardens", 3, 2
+"Carroll Gardens", 7, 2
+"Carroll Gardens", 10, 2
+"Carroll Gardens", 11, 2
+"Carroll Gardens", 14, 2
+"Carroll Gardens", 16, 2
+"Carroll Gardens", 20, 2
+"Claremont/Bathgate", 7, 2
+"Claremont/Bathgate", 9, 2
+"Claremont/Bathgate", 10, 2
+"Claremont/Bathgate", 11, 2
+"Claremont/Bathgate", 13, 2
+"Claremont/Bathgate", 15, 2
+"Clinton Hill", 4, 2
+"Clinton Hill", 6, 2
+"Clinton Hill", 7, 2
+"Clinton Hill", 9, 2
+"Clinton Hill", 10, 2
+"Clinton Hill", 14, 2
+"Clinton Hill", 17, 2
+"Clinton Hill", 20, 2
+"Clinton Hill", 22, 2
+"Co-Op City", 7, 2
+"Co-Op City", 12, 2
+"Co-Op City", 15, 2
+"Cobble Hill", 12, 2
+"College Point", 12, 2
+"Coney Island", 9, 2
+"Coney Island", 14, 2
+"Coney Island", 18, 2
+"Corona", 8, 2
+"Corona", 10, 2
+"Corona", 14, 2
+"Corona", 15, 2
+"Corona", 17, 2
+"Crotona Park East", 4, 2
+"Crotona Park East", 9, 2
+"Crotona Park East", 11, 2
+"Crotona Park East", 16, 2
+"Crotona Park East", 19, 2
+"Crown Heights South", 4, 2
+"Crown Heights South", 5, 2
+"Crown Heights South", 9, 2
+"Crown Heights South", 11, 2
+"Crown Heights South", 13, 2
+"Crown Heights South", 18, 2
+"Cypress Hills", 12, 2
+"Cypress Hills", 13, 2
+"Cypress Hills", 15, 2
+"Cypress Hills", 16, 2
+"Cypress Hills", 18, 2
+"DUMBO/Vinegar Hill", 3, 2
+"DUMBO/Vinegar Hill", 10, 2
+"Douglaston", 8, 2
+"Downtown Brooklyn/MetroTech", 4, 2
+"Dyker Heights", 18, 2
+"Dyker Heights", 19, 2
+"Dyker Heights", 20, 2
+"East Concourse/Concourse Village", 14, 2
+"East Concourse/Concourse Village", 18, 2
+"East Flatbush/Remsen Village", 16, 2
+"East Flushing", 7, 2
+"East New York", 15, 2
+"East New York/Pennsylvania Avenue", 5, 2
+"East New York/Pennsylvania Avenue", 6, 2
+"East New York/Pennsylvania Avenue", 10, 2
+"East New York/Pennsylvania Avenue", 17, 2
+"East Tremont", 0, 2
+"East Tremont", 11, 2
+"East Tremont", 15, 2
+"East Williamsburg", 6, 2
+"East Williamsburg", 13, 2
+"East Williamsburg", 21, 2
+"Eastchester", 3, 2
+"Eastchester", 15, 2
+"Elmhurst", 1, 2
+"Elmhurst", 2, 2
+"Elmhurst", 7, 2
+"Elmhurst/Maspeth", 2, 2
+"Elmhurst/Maspeth", 9, 2
+"Elmhurst/Maspeth", 10, 2
+"Elmhurst/Maspeth", 11, 2
+"Elmhurst/Maspeth", 14, 2
+"Erasmus", 3, 2
+"Erasmus", 22, 2
+"Far Rockaway", 9, 2
+"Far Rockaway", 10, 2
+"Far Rockaway", 15, 2
+"Far Rockaway", 17, 2
+"Flatbush/Ditmas Park", 2, 2
+"Flatbush/Ditmas Park", 5, 2
+"Flatlands", 4, 2
+"Flatlands", 8, 2
+"Flatlands", 10, 2
+"Flatlands", 15, 2
+"Flushing Meadows-Corona Park", 18, 2
+"Flushing", 10, 2
+"Flushing", 11, 2
+"Flushing", 16, 2
+"Flushing", 20, 2
+"Fordham South", 13, 2
+"Forest Hills", 0, 2
+"Forest Hills", 2, 2
+"Forest Hills", 8, 2
+"Forest Hills", 11, 2
+"Forest Hills", 17, 2
+"Forest Hills", 18, 2
+"Forest Hills", 22, 2
+"Fresh Meadows", 5, 2
+"Fresh Meadows", 10, 2
+"Gravesend", 5, 2
+"Gravesend", 6, 2
+"Gravesend", 10, 2
+"Gravesend", 13, 2
+"Greenpoint", 0, 2
+"Greenpoint", 10, 2
+"Greenpoint", 19, 2
+"Hammels/Arverne", 14, 2
+"Highbridge", 7, 2
+"Highbridge", 11, 2
+"Highbridge", 12, 2
+"Hillcrest/Pomonok", 9, 2
+"Hillcrest/Pomonok", 10, 2
+"Hillcrest/Pomonok", 12, 2
+"Hillcrest/Pomonok", 16, 2
+"Hollis", 6, 2
+"Homecrest", 8, 2
+"Homecrest", 10, 2
+"Homecrest", 12, 2
+"Homecrest", 14, 2
+"Homecrest", 22, 2
+"Howard Beach", 5, 2
+"Howard Beach", 7, 2
+"Howard Beach", 9, 2
+"Howard Beach", 10, 2
+"Howard Beach", 12, 2
+"Howard Beach", 15, 2
+"Howard Beach", 22, 2
+"Hunts Point", 6, 2
+"Hunts Point", 7, 2
+"Hunts Point", 12, 2
+"Hunts Point", 15, 2
+"Inwood", 5, 2
+"Inwood", 9, 2
+"Inwood", 11, 2
+"Inwood", 12, 2
+"Inwood", 22, 2
+"Jackson Heights", 2, 2
+"Jackson Heights", 4, 2
+"Jackson Heights", 5, 2
+"Jamaica Estates", 3, 2
+"Jamaica Estates", 7, 2
+"Jamaica Estates", 10, 2
+"Jamaica Estates", 13, 2
+"Kensington", 14, 2
+"Kew Gardens Hills", 5, 2
+"Kew Gardens Hills", 7, 2
+"Kew Gardens Hills", 8, 2
+"Kew Gardens Hills", 9, 2
+"Kew Gardens Hills", 10, 2
+"Kew Gardens Hills", 14, 2
+"Kew Gardens", 0, 2
+"Kew Gardens", 8, 2
+"Kew Gardens", 9, 2
+"Kew Gardens", 10, 2
+"Kew Gardens", 20, 2
+"Laurelton", 6, 2
+"Laurelton", 10, 2
+"Laurelton", 11, 2
+"Laurelton", 15, 2
+"Laurelton", 16, 2
+"Long Island City/Queens Plaza", 0, 2
+"Long Island City/Queens Plaza", 5, 2
+"Longwood", 8, 2
+"Longwood", 13, 2
+"Madison", 14, 2
+"Manhattan Beach", 8, 2
+"Manhattan Beach", 12, 2
+"Manhattan Beach", 14, 2
+"Manhattanville", 3, 2
+"Marble Hill", 11, 2
+"Marble Hill", 19, 2
+"Marine Park/Mill Basin", 8, 2
+"Marine Park/Mill Basin", 19, 2
+"Marine Park/Mill Basin", 22, 2
+"Maspeth", 6, 2
+"Maspeth", 8, 2
+"Maspeth", 14, 2
+"Maspeth", 15, 2
+"Maspeth", 16, 2
+"Maspeth", 20, 2
+"Melrose South", 7, 2
+"Melrose South", 10, 2
+"Melrose South", 17, 2
+"Melrose South", 18, 2
+"Melrose South", 19, 2
+"Melrose South", 23, 2
+"Middle Village", 12, 2
+"Midwood", 5, 2
+"Midwood", 6, 2
+"Midwood", 10, 2
+"Midwood", 11, 2
+"Midwood", 14, 2
+"Morrisania/Melrose", 0, 2
+"Morrisania/Melrose", 4, 2
+"Morrisania/Melrose", 5, 2
+"Morrisania/Melrose", 6, 2
+"Morrisania/Melrose", 15, 2
+"Morrisania/Melrose", 17, 2
+"Mott Haven/Port Morris", 10, 2
+"Mount Hope", 1, 2
+"Mount Hope", 7, 2
+"Mount Hope", 11, 2
+"Mount Hope", 13, 2
+"Mount Hope", 15, 2
+"Murray Hill-Queens", 7, 2
+"Murray Hill-Queens", 8, 2
+"Murray Hill-Queens", 12, 2
+"Newark Airport", 5, 2
+"Newark Airport", 10, 2
+"Newark Airport", 11, 2
+"North Corona", 2, 2
+"North Corona", 6, 2
+"North Corona", 15, 2
+"Norwood", 5, 2
+"Norwood", 7, 2
+"Norwood", 13, 2
+"Norwood", 14, 2
+"Norwood", 16, 2
+"Oakland Gardens", 10, 2
+"Oakland Gardens", 18, 2
+"Ocean Hill", 5, 2
+"Ocean Hill", 7, 2
+"Ocean Parkway South", 5, 2
+"Ocean Parkway South", 8, 2
+"Ocean Parkway South", 13, 2
+"Old Astoria", 5, 2
+"Old Astoria", 7, 2
+"Ozone Park", 7, 2
+"Ozone Park", 11, 2
+"Ozone Park", 13, 2
+"Ozone Park", 15, 2
+"Park Slope", 5, 2
+"Park Slope", 20, 2
+"Parkchester", 7, 2
+"Parkchester", 9, 2
+"Parkchester", 11, 2
+"Parkchester", 14, 2
+"Parkchester", 15, 2
+"Pelham Bay", 5, 2
+"Pelham Parkway", 10, 2
+"Pelham Parkway", 13, 2
+"Prospect Heights", 11, 2
+"Prospect Heights", 13, 2
+"Prospect Heights", 16, 2
+"Prospect Heights", 19, 2
+"Prospect Heights", 20, 2
+"Prospect Heights", 21, 2
+"Prospect Park", 0, 2
+"Prospect Park", 22, 2
+"Prospect-Lefferts Gardens", 1, 2
+"Prospect-Lefferts Gardens", 2, 2
+"Prospect-Lefferts Gardens", 4, 2
+"Prospect-Lefferts Gardens", 16, 2
+"Prospect-Lefferts Gardens", 18, 2
+"Queens Village", 23, 2
+"Queensboro Hill", 9, 2
+"Queensboro Hill", 15, 2
+"Queensbridge/Ravenswood", 1, 2
+"Queensbridge/Ravenswood", 4, 2
+"Randalls Island", 14, 2
+"Randalls Island", 16, 2
+"Red Hook", 5, 2
+"Rego Park", 0, 2
+"Rego Park", 9, 2
+"Rego Park", 10, 2
+"Rego Park", 16, 2
+"Rego Park", 22, 2
+"Richmond Hill", 0, 2
+"Richmond Hill", 3, 2
+"Richmond Hill", 5, 2
+"Richmond Hill", 9, 2
+"Richmond Hill", 12, 2
+"Richmond Hill", 18, 2
+"Richmond Hill", 21, 2
+"Ridgewood", 8, 2
+"Ridgewood", 11, 2
+"Riverdale/North Riverdale/Fieldston", 6, 2
+"Riverdale/North Riverdale/Fieldston", 11, 2
+"Rockaway Park", 12, 2
+"Rockaway Park", 17, 2
+"Roosevelt Island", 6, 2
+"Roosevelt Island", 13, 2
+"Roosevelt Island", 17, 2
+"Rosedale", 4, 2
+"Rosedale", 6, 2
+"Rosedale", 7, 2
+"Rosedale", 11, 2
+"Rosedale", 12, 2
+"Rosedale", 13, 2
+"Rosedale", 20, 2
+"Saint Albans", 1, 2
+"Saint Albans", 10, 2
+"Saint Albans", 11, 2
+"Saint Albans", 12, 2
+"Saint Michaels Cemetery/Woodside", 14, 2
+"Schuylerville/Edgewater Park", 6, 2
+"Schuylerville/Edgewater Park", 14, 2
+"Schuylerville/Edgewater Park", 15, 2
+"Sheepshead Bay", 9, 2
+"Sheepshead Bay", 13, 2
+"Sheepshead Bay", 16, 2
+"Soundview/Bruckner", 6, 2
+"Soundview/Bruckner", 7, 2
+"Soundview/Bruckner", 12, 2
+"Soundview/Bruckner", 13, 2
+"Soundview/Castle Hill", 5, 2
+"Soundview/Castle Hill", 10, 2
+"Soundview/Castle Hill", 13, 2
+"Soundview/Castle Hill", 14, 2
+"Soundview/Castle Hill", 15, 2
+"South Jamaica", 4, 2
+"South Jamaica", 15, 2
+"South Jamaica", 20, 2
+"South Jamaica", 22, 2
+"South Ozone Park", 6, 2
+"South Ozone Park", 10, 2
+"South Williamsburg", 5, 2
+"South Williamsburg", 13, 2
+"Springfield Gardens North", 10, 2
+"Springfield Gardens North", 13, 2
+"Springfield Gardens South", 2, 2
+"Springfield Gardens South", 21, 2
+"Spuyten Duyvil/Kingsbridge", 17, 2
+"Starrett City", 6, 2
+"Starrett City", 17, 2
+"Steinway", 2, 2
+"Steinway", 17, 2
+"Steinway", 23, 2
+"Stuyvesant Heights", 9, 2
+"Stuyvesant Heights", 16, 2
+"Sunset Park East", 11, 2
+"Sunset Park East", 13, 2
+"Sunset Park East", 15, 2
+"Sunset Park West", 4, 2
+"Sunset Park West", 10, 2
+"Sunset Park West", 11, 2
+"University Heights/Morris Heights", 15, 2
+"Van Cortlandt Park", 5, 2
+"Van Cortlandt Village", 7, 2
+"Van Cortlandt Village", 10, 2
+"Van Cortlandt Village", 11, 2
+"Van Cortlandt Village", 12, 2
+"Van Cortlandt Village", 15, 2
+"Van Nest/Morris Park", 8, 2
+"Van Nest/Morris Park", 13, 2
+"Van Nest/Morris Park", 16, 2
+"Washington Heights North", 5, 2
+"Washington Heights North", 10, 2
+"Washington Heights North", 21, 2
+"Washington Heights North", 22, 2
+"West Concourse", 2, 2
+"West Concourse", 6, 2
+"West Concourse", 12, 2
+"West Concourse", 13, 2
+"West Concourse", 17, 2
+"West Concourse", 21, 2
+"West Farms/Bronx River", 4, 2
+"West Farms/Bronx River", 5, 2
+"West Farms/Bronx River", 17, 2
+"Westchester Village/Unionport", 4, 2
+"Westchester Village/Unionport", 5, 2
+"Westchester Village/Unionport", 13, 2
+"Westchester Village/Unionport", 14, 2
+"Westchester Village/Unionport", 15, 2
+"Whitestone", 12, 2
+"Whitestone", 16, 2
+"Williamsbridge/Olinville", 7, 2
+"Williamsbridge/Olinville", 11, 2
+"Williamsbridge/Olinville", 12, 2
+"Williamsburg (North Side)", 5, 2
+"Williamsburg (North Side)", 8, 2
+"Williamsburg (North Side)", 9, 2
+"Williamsburg (North Side)", 12, 2
+"Williamsburg (North Side)", 16, 2
+"Williamsburg (North Side)", 17, 2
+"Williamsburg (North Side)", 19, 2
+"Williamsburg (South Side)", 7, 2
+"Williamsburg (South Side)", 14, 2
+"Williamsburg (South Side)", 21, 2
+"Windsor Terrace", 22, 2
+"Woodhaven", 8, 2
+"Woodhaven", 20, 2
+"Woodlawn/Wakefield", 13, 2
+"Woodside", 2, 2
+"Woodside", 4, 2
+"Woodside", 20, 2
+"Woodside", 23, 2
+"Allerton/Pelham Gardens", 7, 1
+"Allerton/Pelham Gardens", 10, 1
+"Allerton/Pelham Gardens", 11, 1
+"Allerton/Pelham Gardens", 13, 1
+"Allerton/Pelham Gardens", 18, 1
+"Arrochar/Fort Wadsworth", 0, 1
+"Arrochar/Fort Wadsworth", 2, 1
+"Arrochar/Fort Wadsworth", 4, 1
+"Arrochar/Fort Wadsworth", 15, 1
+"Arrochar/Fort Wadsworth", 23, 1
+"Astoria Park", 13, 1
+"Astoria Park", 14, 1
+"Astoria Park", 16, 1
+"Auburndale", 3, 1
+"Auburndale", 4, 1
+"Auburndale", 10, 1
+"Auburndale", 14, 1
+"Auburndale", 16, 1
+"Auburndale", 19, 1
+"Baisley Park", 0, 1
+"Baisley Park", 1, 1
+"Bath Beach", 3, 1
+"Bath Beach", 11, 1
+"Battery Park", 2, 1
+"Battery Park", 5, 1
+"Battery Park", 19, 1
+"Battery Park", 22, 1
+"Bay Ridge", 1, 1
+"Bay Ridge", 2, 1
+"Bay Ridge", 8, 1
+"Bay Ridge", 15, 1
+"Bay Ridge", 16, 1
+"Bay Ridge", 17, 1
+"Bay Ridge", 19, 1
+"Bay Ridge", 20, 1
+"Bay Ridge", 23, 1
+"Bay Terrace/Fort Totten", 11, 1
+"Bay Terrace/Fort Totten", 16, 1
+"Bay Terrace/Fort Totten", 17, 1
+"Bayside", 14, 1
+"Bayside", 15, 1
+"Bayside", 16, 1
+"Bayside", 19, 1
+"Bayside", 21, 1
+"Bayside", 23, 1
+"Bedford Park", 0, 1
+"Bedford Park", 4, 1
+"Bedford Park", 7, 1
+"Bedford Park", 8, 1
+"Bedford Park", 13, 1
+"Bedford Park", 15, 1
+"Bedford Park", 21, 1
+"Bedford", 0, 1
+"Bedford", 3, 1
+"Bedford", 5, 1
+"Bedford", 7, 1
+"Bedford", 14, 1
+"Bedford", 16, 1
+"Bedford", 19, 1
+"Bedford", 20, 1
+"Bedford", 21, 1
+"Bedford", 22, 1
+"Bellerose", 2, 1
+"Bellerose", 5, 1
+"Bellerose", 8, 1
+"Bellerose", 10, 1
+"Bellerose", 14, 1
+"Bellerose", 15, 1
+"Bellerose", 16, 1
+"Bellerose", 17, 1
+"Bellerose", 18, 1
+"Belmont", 0, 1
+"Belmont", 6, 1
+"Belmont", 9, 1
+"Belmont", 13, 1
+"Bensonhurst East", 8, 1
+"Bensonhurst East", 13, 1
+"Bensonhurst East", 15, 1
+"Bensonhurst East", 17, 1
+"Bensonhurst East", 18, 1
+"Bensonhurst East", 21, 1
+"Bensonhurst West", 4, 1
+"Bensonhurst West", 14, 1
+"Bensonhurst West", 17, 1
+"Bensonhurst West", 20, 1
+"Bloomfield/Emerson Hill", 8, 1
+"Bloomingdale", 4, 1
+"Boerum Hill", 7, 1
+"Boerum Hill", 18, 1
+"Borough Park", 5, 1
+"Borough Park", 7, 1
+"Borough Park", 18, 1
+"Briarwood/Jamaica Hills", 0, 1
+"Briarwood/Jamaica Hills", 3, 1
+"Briarwood/Jamaica Hills", 4, 1
+"Briarwood/Jamaica Hills", 15, 1
+"Briarwood/Jamaica Hills", 22, 1
+"Brighton Beach", 2, 1
+"Brighton Beach", 5, 1
+"Brighton Beach", 13, 1
+"Brighton Beach", 17, 1
+"Bronx Park", 11, 1
+"Bronx Park", 12, 1
+"Bronx Park", 15, 1
+"Bronxdale", 5, 1
+"Bronxdale", 6, 1
+"Bronxdale", 7, 1
+"Bronxdale", 17, 1
+"Brooklyn Heights", 21, 1
+"Brooklyn Navy Yard", 2, 1
+"Brooklyn Navy Yard", 13, 1
+"Brooklyn Navy Yard", 15, 1
+"Brooklyn Navy Yard", 16, 1
+"Brooklyn Navy Yard", 18, 1
+"Brownsville", 2, 1
+"Brownsville", 21, 1
+"Brownsville", 23, 1
+"Bushwick North", 4, 1
+"Bushwick North", 9, 1
+"Bushwick North", 11, 1
+"Bushwick North", 12, 1
+"Bushwick North", 16, 1
+"Bushwick North", 23, 1
+"Bushwick South", 0, 1
+"Bushwick South", 3, 1
+"Bushwick South", 10, 1
+"Bushwick South", 11, 1
+"Bushwick South", 22, 1
+"Cambria Heights", 4, 1
+"Cambria Heights", 9, 1
+"Cambria Heights", 10, 1
+"Canarsie", 22, 1
+"Carroll Gardens", 5, 1
+"Carroll Gardens", 13, 1
+"Carroll Gardens", 15, 1
+"Carroll Gardens", 17, 1
+"Carroll Gardens", 18, 1
+"Carroll Gardens", 19, 1
+"Carroll Gardens", 21, 1
+"Charleston/Tottenville", 6, 1
+"Chinatown", 5, 1
+"Chinatown", 6, 1
+"City Island", 11, 1
+"City Island", 15, 1
+"Claremont/Bathgate", 0, 1
+"Claremont/Bathgate", 1, 1
+"Claremont/Bathgate", 6, 1
+"Claremont/Bathgate", 12, 1
+"Claremont/Bathgate", 14, 1
+"Claremont/Bathgate", 18, 1
+"Claremont/Bathgate", 23, 1
+"Clinton Hill", 0, 1
+"Clinton Hill", 3, 1
+"Clinton Hill", 5, 1
+"Clinton Hill", 18, 1
+"Clinton Hill", 19, 1
+"Clinton Hill", 21, 1
+"Clinton Hill", 23, 1
+"Co-Op City", 17, 1
+"Co-Op City", 21, 1
+"Cobble Hill", 0, 1
+"Cobble Hill", 2, 1
+"Cobble Hill", 15, 1
+"Cobble Hill", 17, 1
+"Cobble Hill", 19, 1
+"Cobble Hill", 20, 1
+"College Point", 6, 1
+"College Point", 8, 1
+"College Point", 9, 1
+"College Point", 13, 1
+"College Point", 21, 1
+"Columbia Street", 4, 1
+"Columbia Street", 8, 1
+"Columbia Street", 10, 1
+"Columbia Street", 11, 1
+"Columbia Street", 14, 1
+"Columbia Street", 17, 1
+"Coney Island", 2, 1
+"Coney Island", 5, 1
+"Coney Island", 15, 1
+"Coney Island", 16, 1
+"Coney Island", 19, 1
+"Coney Island", 22, 1
+"Corona", 3, 1
+"Corona", 4, 1
+"Corona", 9, 1
+"Corona", 12, 1
+"Corona", 20, 1
+"Corona", 21, 1
+"Corona", 23, 1
+"Crotona Park East", 2, 1
+"Crotona Park East", 6, 1
+"Crotona Park East", 13, 1
+"Crotona Park East", 17, 1
+"Crotona Park", 9, 1
+"Crown Heights North", 0, 1
+"Crown Heights North", 1, 1
+"Crown Heights North", 20, 1
+"Crown Heights North", 21, 1
+"Crown Heights North", 22, 1
+"Crown Heights North", 23, 1
+"Crown Heights South", 15, 1
+"Crown Heights South", 16, 1
+"Crown Heights South", 19, 1
+"Crown Heights South", 21, 1
+"Cypress Hills", 8, 1
+"Cypress Hills", 17, 1
+"Cypress Hills", 20, 1
+"DUMBO/Vinegar Hill", 5, 1
+"DUMBO/Vinegar Hill", 7, 1
+"DUMBO/Vinegar Hill", 23, 1
+"Douglaston", 7, 1
+"Douglaston", 13, 1
+"Douglaston", 19, 1
+"Douglaston", 21, 1
+"Downtown Brooklyn/MetroTech", 0, 1
+"Dyker Heights", 7, 1
+"Dyker Heights", 9, 1
+"Dyker Heights", 10, 1
+"Dyker Heights", 21, 1
+"Dyker Heights", 22, 1
+"East Concourse/Concourse Village", 2, 1
+"East Concourse/Concourse Village", 4, 1
+"East Concourse/Concourse Village", 19, 1
+"East Flatbush/Farragut", 16, 1
+"East Flatbush/Farragut", 17, 1
+"East Flatbush/Farragut", 18, 1
+"East Flatbush/Farragut", 23, 1
+"East Flatbush/Remsen Village", 0, 1
+"East Flatbush/Remsen Village", 15, 1
+"East Flatbush/Remsen Village", 18, 1
+"East Flatbush/Remsen Village", 19, 1
+"East Flatbush/Remsen Village", 22, 1
+"East Flatbush/Remsen Village", 23, 1
+"East Flushing", 5, 1
+"East New York", 3, 1
+"East New York", 19, 1
+"East New York/Pennsylvania Avenue", 0, 1
+"East New York/Pennsylvania Avenue", 11, 1
+"East New York/Pennsylvania Avenue", 14, 1
+"East New York/Pennsylvania Avenue", 16, 1
+"East New York/Pennsylvania Avenue", 18, 1
+"East New York/Pennsylvania Avenue", 22, 1
+"East Tremont", 3, 1
+"East Tremont", 4, 1
+"East Tremont", 5, 1
+"East Tremont", 16, 1
+"East Tremont", 18, 1
+"East Williamsburg", 10, 1
+"East Williamsburg", 12, 1
+"East Williamsburg", 14, 1
+"East Williamsburg", 15, 1
+"East Williamsburg", 17, 1
+"East Williamsburg", 18, 1
+"East Williamsburg", 22, 1
+"Eastchester", 2, 1
+"Eastchester", 6, 1
+"Elmhurst", 3, 1
+"Elmhurst", 5, 1
+"Elmhurst", 17, 1
+"Elmhurst", 18, 1
+"Elmhurst/Maspeth", 0, 1
+"Elmhurst/Maspeth", 3, 1
+"Elmhurst/Maspeth", 4, 1
+"Elmhurst/Maspeth", 5, 1
+"Elmhurst/Maspeth", 7, 1
+"Elmhurst/Maspeth", 8, 1
+"Elmhurst/Maspeth", 15, 1
+"Elmhurst/Maspeth", 17, 1
+"Elmhurst/Maspeth", 18, 1
+"Elmhurst/Maspeth", 19, 1
+"Elmhurst/Maspeth", 21, 1
+"Erasmus", 2, 1
+"Erasmus", 8, 1
+"Erasmus", 15, 1
+"Erasmus", 16, 1
+"Erasmus", 20, 1
+"Far Rockaway", 1, 1
+"Far Rockaway", 7, 1
+"Far Rockaway", 11, 1
+"Far Rockaway", 14, 1
+"Far Rockaway", 16, 1
+"Far Rockaway", 19, 1
+"Far Rockaway", 22, 1
+"Flatbush/Ditmas Park", 4, 1
+"Flatbush/Ditmas Park", 19, 1
+"Flatlands", 2, 1
+"Flatlands", 3, 1
+"Flatlands", 14, 1
+"Flatlands", 17, 1
+"Flatlands", 18, 1
+"Flatlands", 19, 1
+"Flushing Meadows-Corona Park", 2, 1
+"Flushing Meadows-Corona Park", 3, 1
+"Flushing Meadows-Corona Park", 6, 1
+"Flushing Meadows-Corona Park", 7, 1
+"Flushing Meadows-Corona Park", 10, 1
+"Flushing Meadows-Corona Park", 11, 1
+"Flushing Meadows-Corona Park", 17, 1
+"Flushing Meadows-Corona Park", 20, 1
+"Flushing Meadows-Corona Park", 23, 1
+"Flushing", 3, 1
+"Flushing", 5, 1
+"Flushing", 6, 1
+"Flushing", 7, 1
+"Flushing", 8, 1
+"Flushing", 14, 1
+"Flushing", 15, 1
+"Flushing", 18, 1
+"Flushing", 19, 1
+"Flushing", 21, 1
+"Flushing", 23, 1
+"Fordham South", 2, 1
+"Fordham South", 5, 1
+"Fordham South", 10, 1
+"Fordham South", 12, 1
+"Fordham South", 14, 1
+"Fordham South", 15, 1
+"Fordham South", 16, 1
+"Fordham South", 22, 1
+"Forest Hills", 1, 1
+"Forest Hills", 4, 1
+"Forest Hills", 19, 1
+"Forest Hills", 20, 1
+"Forest Hills", 21, 1
+"Forest Park/Highland Park", 18, 1
+"Forest Park/Highland Park", 19, 1
+"Forest Park/Highland Park", 21, 1
+"Fort Greene", 5, 1
+"Fort Greene", 13, 1
+"Fresh Meadows", 6, 1
+"Fresh Meadows", 9, 1
+"Fresh Meadows", 11, 1
+"Fresh Meadows", 12, 1
+"Glen Oaks", 6, 1
+"Glen Oaks", 9, 1
+"Glen Oaks", 11, 1
+"Glen Oaks", 13, 1
+"Glen Oaks", 14, 1
+"Glen Oaks", 17, 1
+"Glendale", 0, 1
+"Glendale", 5, 1
+"Glendale", 6, 1
+"Glendale", 7, 1
+"Glendale", 9, 1
+"Glendale", 10, 1
+"Glendale", 11, 1
+"Glendale", 12, 1
+"Glendale", 13, 1
+"Glendale", 22, 1
+"Glendale", 23, 1
+"Gowanus", 0, 1
+"Gowanus", 1, 1
+"Gowanus", 3, 1
+"Gowanus", 4, 1
+"Gowanus", 9, 1
+"Gowanus", 15, 1
+"Gowanus", 16, 1
+"Gowanus", 17, 1
+"Gowanus", 18, 1
+"Gravesend", 8, 1
+"Gravesend", 18, 1
+"Gravesend", 22, 1
+"Green-Wood Cemetery", 4, 1
+"Greenpoint", 7, 1
+"Greenpoint", 8, 1
+"Greenpoint", 11, 1
+"Greenpoint", 13, 1
+"Greenpoint", 14, 1
+"Greenpoint", 15, 1
+"Greenpoint", 16, 1
+"Greenpoint", 23, 1
+"Hammels/Arverne", 2, 1
+"Hammels/Arverne", 3, 1
+"Hammels/Arverne", 15, 1
+"Hammels/Arverne", 17, 1
+"Hammels/Arverne", 20, 1
+"Highbridge", 14, 1
+"Highbridge", 15, 1
+"Highbridge", 16, 1
+"Highbridge", 17, 1
+"Highbridge", 18, 1
+"Hillcrest/Pomonok", 6, 1
+"Hillcrest/Pomonok", 11, 1
+"Hillcrest/Pomonok", 14, 1
+"Hillcrest/Pomonok", 17, 1
+"Hillcrest/Pomonok", 18, 1
+"Hollis", 7, 1
+"Hollis", 13, 1
+"Hollis", 14, 1
+"Hollis", 19, 1
+"Homecrest", 2, 1
+"Homecrest", 3, 1
+"Homecrest", 11, 1
+"Homecrest", 17, 1
+"Homecrest", 20, 1
+"Howard Beach", 0, 1
+"Howard Beach", 8, 1
+"Howard Beach", 11, 1
+"Howard Beach", 13, 1
+"Hunts Point", 1, 1
+"Hunts Point", 10, 1
+"Hunts Point", 11, 1
+"Hunts Point", 14, 1
+"Hunts Point", 18, 1
+"Inwood Hill Park", 8, 1
+"Inwood Hill Park", 11, 1
+"Inwood Hill Park", 15, 1
+"Inwood", 0, 1
+"Inwood", 2, 1
+"Inwood", 3, 1
+"Inwood", 16, 1
+"Inwood", 20, 1
+"Inwood", 21, 1
+"Jackson Heights", 1, 1
+"Jackson Heights", 20, 1
+"Jamaica Bay", 5, 1
+"Jamaica Estates", 0, 1
+"Jamaica Estates", 4, 1
+"Jamaica Estates", 5, 1
+"Jamaica Estates", 9, 1
+"Jamaica Estates", 11, 1
+"Jamaica Estates", 12, 1
+"Jamaica", 1, 1
+"Kensington", 8, 1
+"Kensington", 12, 1
+"Kensington", 18, 1
+"Kensington", 22, 1
+"Kew Gardens Hills", 0, 1
+"Kew Gardens Hills", 11, 1
+"Kew Gardens Hills", 12, 1
+"Kew Gardens Hills", 13, 1
+"Kew Gardens Hills", 15, 1
+"Kew Gardens Hills", 17, 1
+"Kew Gardens Hills", 19, 1
+"Kew Gardens Hills", 22, 1
+"Kew Gardens", 1, 1
+"Kew Gardens", 5, 1
+"Kew Gardens", 6, 1
+"Kew Gardens", 15, 1
+"Kew Gardens", 17, 1
+"Kew Gardens", 22, 1
+"Kingsbridge Heights", 0, 1
+"Kingsbridge Heights", 2, 1
+"Kingsbridge Heights", 3, 1
+"Kingsbridge Heights", 10, 1
+"Kingsbridge Heights", 11, 1
+"Kingsbridge Heights", 12, 1
+"Kingsbridge Heights", 14, 1
+"Kingsbridge Heights", 16, 1
+"Kingsbridge Heights", 20, 1
+"Laurelton", 7, 1
+"Laurelton", 12, 1
+"Laurelton", 18, 1
+"Longwood", 10, 1
+"Longwood", 14, 1
+"Longwood", 15, 1
+"Longwood", 17, 1
+"Madison", 8, 1
+"Madison", 9, 1
+"Madison", 10, 1
+"Madison", 11, 1
+"Madison", 12, 1
+"Madison", 13, 1
+"Madison", 17, 1
+"Madison", 18, 1
+"Manhattan Beach", 2, 1
+"Manhattan Beach", 4, 1
+"Manhattan Beach", 7, 1
+"Manhattan Beach", 11, 1
+"Manhattan Beach", 13, 1
+"Manhattan Beach", 15, 1
+"Manhattan Beach", 19, 1
+"Manhattan Beach", 21, 1
+"Marble Hill", 2, 1
+"Marble Hill", 9, 1
+"Marble Hill", 14, 1
+"Marble Hill", 15, 1
+"Marine Park/Floyd Bennett Field", 2, 1
+"Marine Park/Floyd Bennett Field", 6, 1
+"Marine Park/Floyd Bennett Field", 8, 1
+"Marine Park/Floyd Bennett Field", 10, 1
+"Marine Park/Floyd Bennett Field", 11, 1
+"Marine Park/Floyd Bennett Field", 17, 1
+"Marine Park/Floyd Bennett Field", 19, 1
+"Marine Park/Floyd Bennett Field", 22, 1
+"Marine Park/Mill Basin", 1, 1
+"Marine Park/Mill Basin", 4, 1
+"Marine Park/Mill Basin", 6, 1
+"Marine Park/Mill Basin", 15, 1
+"Mariners Harbor", 6, 1
+"Maspeth", 0, 1
+"Maspeth", 10, 1
+"Maspeth", 17, 1
+"Maspeth", 18, 1
+"Maspeth", 21, 1
+"Maspeth", 22, 1
+"Melrose South", 1, 1
+"Melrose South", 3, 1
+"Melrose South", 5, 1
+"Melrose South", 8, 1
+"Melrose South", 16, 1
+"Melrose South", 20, 1
+"Middle Village", 8, 1
+"Middle Village", 9, 1
+"Middle Village", 11, 1
+"Middle Village", 13, 1
+"Middle Village", 16, 1
+"Middle Village", 17, 1
+"Midwood", 2, 1
+"Midwood", 4, 1
+"Midwood", 8, 1
+"Midwood", 18, 1
+"Morrisania/Melrose", 1, 1
+"Morrisania/Melrose", 2, 1
+"Morrisania/Melrose", 7, 1
+"Morrisania/Melrose", 14, 1
+"Mott Haven/Port Morris", 15, 1
+"Mott Haven/Port Morris", 17, 1
+"Mott Haven/Port Morris", 21, 1
+"Mount Hope", 0, 1
+"Mount Hope", 2, 1
+"Mount Hope", 5, 1
+"Mount Hope", 6, 1
+"Mount Hope", 8, 1
+"Mount Hope", 10, 1
+"Mount Hope", 18, 1
+"Murray Hill-Queens", 10, 1
+"Murray Hill-Queens", 15, 1
+"Newark Airport", 3, 1
+"Newark Airport", 4, 1
+"Newark Airport", 20, 1
+"Newark Airport", 23, 1
+"North Corona", 3, 1
+"North Corona", 4, 1
+"North Corona", 9, 1
+"North Corona", 10, 1
+"North Corona", 12, 1
+"North Corona", 13, 1
+"North Corona", 16, 1
+"North Corona", 21, 1
+"North Corona", 23, 1
+"Norwood", 8, 1
+"Norwood", 11, 1
+"Norwood", 12, 1
+"Norwood", 17, 1
+"Oakland Gardens", 5, 1
+"Oakland Gardens", 7, 1
+"Oakland Gardens", 14, 1
+"Oakland Gardens", 19, 1
+"Oakland Gardens", 21, 1
+"Ocean Hill", 2, 1
+"Ocean Hill", 14, 1
+"Ocean Hill", 15, 1
+"Ocean Hill", 16, 1
+"Ocean Hill", 17, 1
+"Ocean Hill", 18, 1
+"Ocean Hill", 19, 1
+"Ocean Parkway South", 4, 1
+"Ocean Parkway South", 7, 1
+"Ocean Parkway South", 9, 1
+"Ocean Parkway South", 12, 1
+"Ocean Parkway South", 14, 1
+"Old Astoria", 1, 1
+"Old Astoria", 3, 1
+"Old Astoria", 4, 1
+"Old Astoria", 19, 1
+"Old Astoria", 21, 1
+"Old Astoria", 22, 1
+"Ozone Park", 5, 1
+"Ozone Park", 6, 1
+"Ozone Park", 8, 1
+"Ozone Park", 10, 1
+"Ozone Park", 12, 1
+"Ozone Park", 16, 1
+"Ozone Park", 18, 1
+"Ozone Park", 22, 1
+"Park Slope", 4, 1
+"Park Slope", 6, 1
+"Parkchester", 4, 1
+"Parkchester", 16, 1
+"Parkchester", 17, 1
+"Parkchester", 18, 1
+"Parkchester", 20, 1
+"Pelham Bay", 7, 1
+"Pelham Bay", 12, 1
+"Pelham Bay", 13, 1
+"Pelham Bay", 17, 1
+"Pelham Parkway", 7, 1
+"Pelham Parkway", 15, 1
+"Pelham Parkway", 16, 1
+"Prospect Heights", 1, 1
+"Prospect Heights", 7, 1
+"Prospect Heights", 8, 1
+"Prospect Heights", 10, 1
+"Prospect Heights", 15, 1
+"Prospect Heights", 22, 1
+"Prospect Heights", 23, 1
+"Prospect Park", 6, 1
+"Prospect Park", 9, 1
+"Prospect Park", 15, 1
+"Prospect Park", 16, 1
+"Prospect-Lefferts Gardens", 3, 1
+"Prospect-Lefferts Gardens", 23, 1
+"Queens Village", 5, 1
+"Queens Village", 7, 1
+"Queens Village", 9, 1
+"Queens Village", 13, 1
+"Queens Village", 16, 1
+"Queensboro Hill", 3, 1
+"Queensboro Hill", 8, 1
+"Queensboro Hill", 11, 1
+"Queensboro Hill", 14, 1
+"Queensboro Hill", 18, 1
+"Queensbridge/Ravenswood", 0, 1
+"Queensbridge/Ravenswood", 23, 1
+"Randalls Island", 7, 1
+"Randalls Island", 10, 1
+"Randalls Island", 11, 1
+"Randalls Island", 13, 1
+"Randalls Island", 19, 1
+"Red Hook", 2, 1
+"Red Hook", 4, 1
+"Red Hook", 6, 1
+"Red Hook", 15, 1
+"Red Hook", 19, 1
+"Rego Park", 2, 1
+"Rego Park", 5, 1
+"Rego Park", 15, 1
+"Rego Park", 19, 1
+"Rego Park", 20, 1
+"Richmond Hill", 17, 1
+"Ridgewood", 1, 1
+"Ridgewood", 5, 1
+"Ridgewood", 7, 1
+"Ridgewood", 16, 1
+"Ridgewood", 17, 1
+"Ridgewood", 18, 1
+"Ridgewood", 23, 1
+"Riverdale/North Riverdale/Fieldston", 4, 1
+"Riverdale/North Riverdale/Fieldston", 5, 1
+"Riverdale/North Riverdale/Fieldston", 8, 1
+"Riverdale/North Riverdale/Fieldston", 9, 1
+"Riverdale/North Riverdale/Fieldston", 10, 1
+"Riverdale/North Riverdale/Fieldston", 14, 1
+"Riverdale/North Riverdale/Fieldston", 15, 1
+"Rockaway Park", 4, 1
+"Rockaway Park", 5, 1
+"Rockaway Park", 6, 1
+"Rockaway Park", 8, 1
+"Rockaway Park", 13, 1
+"Rockaway Park", 14, 1
+"Rockaway Park", 15, 1
+"Roosevelt Island", 1, 1
+"Roosevelt Island", 5, 1
+"Roosevelt Island", 7, 1
+"Roosevelt Island", 9, 1
+"Roosevelt Island", 18, 1
+"Roosevelt Island", 23, 1
+"Rosedale", 8, 1
+"Rosedale", 10, 1
+"Rosedale", 15, 1
+"Rosedale", 18, 1
+"Saint Albans", 4, 1
+"Saint Albans", 19, 1
+"Saint Michaels Cemetery/Woodside", 7, 1
+"Saint Michaels Cemetery/Woodside", 16, 1
+"Saint Michaels Cemetery/Woodside", 22, 1
+"Schuylerville/Edgewater Park", 8, 1
+"Schuylerville/Edgewater Park", 10, 1
+"Schuylerville/Edgewater Park", 11, 1
+"Schuylerville/Edgewater Park", 12, 1
+"Schuylerville/Edgewater Park", 13, 1
+"Schuylerville/Edgewater Park", 16, 1
+"Schuylerville/Edgewater Park", 21, 1
+"Sheepshead Bay", 5, 1
+"Sheepshead Bay", 17, 1
+"Soundview/Bruckner", 4, 1
+"Soundview/Bruckner", 5, 1
+"Soundview/Bruckner", 11, 1
+"Soundview/Bruckner", 16, 1
+"Soundview/Castle Hill", 16, 1
+"Soundview/Castle Hill", 19, 1
+"South Jamaica", 3, 1
+"South Jamaica", 18, 1
+"South Ozone Park", 2, 1
+"South Ozone Park", 3, 1
+"South Williamsburg", 1, 1
+"South Williamsburg", 2, 1
+"South Williamsburg", 3, 1
+"South Williamsburg", 8, 1
+"South Williamsburg", 9, 1
+"South Williamsburg", 10, 1
+"South Williamsburg", 15, 1
+"South Williamsburg", 16, 1
+"South Williamsburg", 17, 1
+"South Williamsburg", 19, 1
+"South Williamsburg", 20, 1
+"Springfield Gardens North", 11, 1
+"Springfield Gardens North", 16, 1
+"Springfield Gardens North", 19, 1
+"Springfield Gardens North", 20, 1
+"Springfield Gardens North", 23, 1
+"Springfield Gardens South", 0, 1
+"Springfield Gardens South", 3, 1
+"Springfield Gardens South", 4, 1
+"Springfield Gardens South", 14, 1
+"Spuyten Duyvil/Kingsbridge", 6, 1
+"Spuyten Duyvil/Kingsbridge", 8, 1
+"Spuyten Duyvil/Kingsbridge", 12, 1
+"Spuyten Duyvil/Kingsbridge", 13, 1
+"Spuyten Duyvil/Kingsbridge", 14, 1
+"Spuyten Duyvil/Kingsbridge", 18, 1
+"Spuyten Duyvil/Kingsbridge", 20, 1
+"Starrett City", 0, 1
+"Starrett City", 3, 1
+"Starrett City", 14, 1
+"Starrett City", 15, 1
+"Steinway", 0, 1
+"Steinway", 3, 1
+"Steinway", 5, 1
+"Steinway", 8, 1
+"Stuyvesant Heights", 2, 1
+"Stuyvesant Heights", 4, 1
+"Stuyvesant Heights", 19, 1
+"Stuyvesant Heights", 20, 1
+"Sunset Park East", 3, 1
+"Sunset Park East", 4, 1
+"Sunset Park East", 6, 1
+"Sunset Park East", 8, 1
+"Sunset Park East", 9, 1
+"Sunset Park East", 10, 1
+"Sunset Park East", 12, 1
+"Sunset Park East", 16, 1
+"Sunset Park East", 20, 1
+"Sunset Park West", 5, 1
+"Sunset Park West", 7, 1
+"Sunset Park West", 12, 1
+"Sunset Park West", 13, 1
+"Sunset Park West", 15, 1
+"Sunset Park West", 17, 1
+"Sunset Park West", 20, 1
+"University Heights/Morris Heights", 0, 1
+"University Heights/Morris Heights", 6, 1
+"University Heights/Morris Heights", 10, 1
+"University Heights/Morris Heights", 17, 1
+"University Heights/Morris Heights", 18, 1
+"Van Cortlandt Park", 7, 1
+"Van Cortlandt Park", 13, 1
+"Van Cortlandt Village", 9, 1
+"Van Cortlandt Village", 14, 1
+"Van Cortlandt Village", 16, 1
+"Van Nest/Morris Park", 0, 1
+"Van Nest/Morris Park", 1, 1
+"Van Nest/Morris Park", 5, 1
+"Van Nest/Morris Park", 7, 1
+"Van Nest/Morris Park", 10, 1
+"Washington Heights North", 0, 1
+"Washington Heights North", 4, 1
+"Washington Heights North", 19, 1
+"West Concourse", 0, 1
+"West Concourse", 1, 1
+"West Concourse", 4, 1
+"West Concourse", 10, 1
+"West Concourse", 15, 1
+"West Concourse", 18, 1
+"West Concourse", 23, 1
+"West Farms/Bronx River", 6, 1
+"West Farms/Bronx River", 9, 1
+"West Farms/Bronx River", 11, 1
+"West Farms/Bronx River", 14, 1
+"West Farms/Bronx River", 16, 1
+"West Farms/Bronx River", 19, 1
+"Westchester Village/Unionport", 17, 1
+"Westchester Village/Unionport", 18, 1
+"Westerleigh", 3, 1
+"Whitestone", 7, 1
+"Whitestone", 9, 1
+"Whitestone", 11, 1
+"Whitestone", 13, 1
+"Whitestone", 15, 1
+"Whitestone", 18, 1
+"Whitestone", 21, 1
+"Willets Point", 15, 1
+"Willets Point", 21, 1
+"Willets Point", 23, 1
+"Williamsbridge/Olinville", 5, 1
+"Williamsbridge/Olinville", 6, 1
+"Williamsbridge/Olinville", 8, 1
+"Williamsbridge/Olinville", 9, 1
+"Williamsbridge/Olinville", 16, 1
+"Williamsbridge/Olinville", 17, 1
+"Williamsbridge/Olinville", 18, 1
+"Williamsbridge/Olinville", 19, 1
+"Williamsbridge/Olinville", 20, 1
+"Williamsburg (North Side)", 6, 1
+"Williamsburg (North Side)", 10, 1
+"Williamsburg (North Side)", 13, 1
+"Williamsburg (South Side)", 10, 1
+"Williamsburg (South Side)", 12, 1
+"Williamsburg (South Side)", 19, 1
+"Windsor Terrace", 7, 1
+"Windsor Terrace", 11, 1
+"Windsor Terrace", 12, 1
+"Windsor Terrace", 13, 1
+"Windsor Terrace", 14, 1
+"Woodhaven", 2, 1
+"Woodhaven", 5, 1
+"Woodhaven", 11, 1
+"Woodhaven", 12, 1
+"Woodhaven", 13, 1
+"Woodhaven", 14, 1
+"Woodhaven", 16, 1
+"Woodhaven", 17, 1
+"Woodlawn/Wakefield", 4, 1
+"Woodlawn/Wakefield", 5, 1
+"Woodlawn/Wakefield", 8, 1
+"Woodlawn/Wakefield", 10, 1
+"Woodlawn/Wakefield", 11, 1
+"Woodlawn/Wakefield", 15, 1
+"Woodlawn/Wakefield", 17, 1
+"Woodlawn/Wakefield", 18, 1
+"Woodside", 17, 1
