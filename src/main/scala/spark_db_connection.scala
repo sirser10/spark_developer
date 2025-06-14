@@ -1,8 +1,7 @@
 import org.apache.spark.sql.{DataFrame, SparkSession}
 import java.util.Properties
 import java.io.FileInputStream
-
-case class PostgresConfig(host: String, port: Int, dbName: String, user: String, password: String)
+import ds_case_classes.PostgresConfig
 
 object spark_db_connection {
   def main(argss: Array[String]): Unit = {
