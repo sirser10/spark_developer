@@ -100,17 +100,5 @@ object homework_11_rdd {
 
     spark.stop()
 
-
-
-
-
-
-
-
-
-
-
-
-
   }
 }
