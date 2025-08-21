@@ -1,5 +1,5 @@
 # Final project for Spark Developer Course
-
+    Chosen topic for the project - Построение аналитических витрин данных IT вакансий
 ## Navigation: 
 * `Main Job` - the main Spark job which is aimed to process source data and load it into Results
 * `Job Trait`- provides separate function for column renaming of DF or DS
@@ -14,4 +14,8 @@
 * `Result data in Parquet`: src/main/resources/results
 * `Helpers`: src/main/scala/common/base_processor.scala
 
+
+## Sources: 
+* Russian Vacancies - https://www.kaggle.com/datasets/pavfedotov/heaadhunter-vacancies
+* Australian Vacancies - https://www.kaggle.com/datasets/techsalerator/job-posting-data-in-austria
 
