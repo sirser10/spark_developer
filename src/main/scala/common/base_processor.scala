@@ -1,6 +1,7 @@
 package common
 import org.apache.spark.{SparkConf, SparkContext}
-import org.apache.spark.sql.{DataFrame, SparkSession}
+import org.apache.spark.sql.{SparkSession, DataFrame}
+
 
 class SparkBaseProcessor(val SparkAppName: String) {
 
