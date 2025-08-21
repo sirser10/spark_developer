@@ -19,3 +19,5 @@
 * Russian Vacancies - https://www.kaggle.com/datasets/pavfedotov/heaadhunter-vacancies
 * Australian Vacancies - https://www.kaggle.com/datasets/techsalerator/job-posting-data-in-austria
 
+## Solution Design:
+![final_project_SparkDeveloper.png](final_project_SparkDeveloper.png)
